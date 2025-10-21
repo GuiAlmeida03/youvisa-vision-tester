@@ -19,7 +19,7 @@ Aplicação de teste para simular a integração com Google Cloud Vision API no 
 ## 📦 Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/youvisa-vision-tester.git
+git clone https://github.com/GuiAlmeida03/youvisa-vision-tester
 
 # Entre na pasta
 cd youvisa-vision-tester
