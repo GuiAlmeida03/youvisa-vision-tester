@@ -71,10 +71,4 @@ const analyzeWithVisionAPI = async (imageBase64) => {
 };
 ```
 
-## 📄 Licença
 
-MIT License - Projeto YOUVISA Sprint 2
-
-## 👥 Autor
-
-Equipe de Arquitetura RPA - YOUVISA
